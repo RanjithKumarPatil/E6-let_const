@@ -1,1 +1,1 @@
-# E6-let_const
+# ES6-let_const
